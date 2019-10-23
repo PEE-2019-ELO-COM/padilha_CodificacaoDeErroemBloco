@@ -1,6 +1,9 @@
 Linguagem utilizada : Python
 
-O bloco a ser construído possuirá classes a serem definidas, com as matrizes de código como atributos. O código também herda algumas classes do próprio GNURadio, que são úteis para o controle do fluxo de dados (entrada do bloco e saída). O bloco poderá ser inserido em uma modulação, no instante do recebimento da sequência e analogamente na decodificação dos bits. Uma comparação de desempenho pode ser feita, comparando a taxa de erros com e sem a implementação do codificador de erro em blocos.
+O bloco a ser construído possuirá classes a serem definidas, com as matrizes de código como atributos. 
+O código também herda algumas classes do próprio GNURadio, que são úteis para o controle do fluxo de dados (entrada do bloco e saída). 
+O bloco poderá ser inserido em uma modulação, no instante do recebimento da sequência e analogamente na decodificação dos bits.
+Uma comparação de desempenho pode ser feita, comparando a taxa de erros com e sem a implementação do codificador de erro em blocos.
 
 O link abaixo é um tutorial de como esses blocos podem ser criados a partir de um código, e como ele pode ser implementado em C++ ou Python.
 Link:https://wiki.gnuradio.org/index.php/Guided_Tutorial_GNU_Radio_in_C%2B%2B#4.2_Maneuvering_our_OOT_module
