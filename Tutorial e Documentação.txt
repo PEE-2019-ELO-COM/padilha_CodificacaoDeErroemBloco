@@ -5,5 +5,11 @@ O código também herda algumas classes do próprio GNURadio, que são úteis pa
 O bloco poderá ser inserido em uma modulação, no instante do recebimento da sequência e analogamente na decodificação dos bits.
 Uma comparação de desempenho pode ser feita, comparando a taxa de erros com e sem a implementação do codificador de erro em blocos.
 
-O link abaixo é um tutorial de como esses blocos podem ser criados a partir de um código, e como ele pode ser implementado em C++ ou Python.
+O link abaixo é um tutorial que mostra quais classes já devem ser incluídas e cria o esqueleto delas em C++ ou Python com as heranças necessárias
 Link:https://wiki.gnuradio.org/index.php/Guided_Tutorial_GNU_Radio_in_C%2B%2B#4.2_Maneuvering_our_OOT_module
+
+Este segundo link é um tutorial que explica como analisar 
+o código de cada flowgraph e quais alterações podem ser
+feitas de modo que o bloco execute as operações que 
+desejarmos.
+Link : https://wiki.gnuradio.org/index.php/Guided_Tutorial_GNU_Radio_in_Python
