@@ -40,8 +40,15 @@ https://www.sublimetext.com/3
 
 ## Desenvolvimento
 
+### Fluxograma
+
+A sequência lógica do programa funciona como ilustrado na figura abaixo:
+<img src = "images/fluxograma.png" height = 600>
+
+
 ### Diagrama de classes
 
 O diagrama de classes do programa está representado na figura abaixo:
+<img src = "images/diagrama_editado.png">
 
 
