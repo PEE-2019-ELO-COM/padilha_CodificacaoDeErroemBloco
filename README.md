@@ -51,4 +51,15 @@ A sequência lógica do programa funciona como ilustrado na figura abaixo:
 O diagrama de classes do programa está representado na figura abaixo:
 <img src = "images/diagrama_editado.png">
 
+### Esboço do projeto
 
+As imagens a seguir são apenas esboços e estão sujeitas a alteração no desenvolvimento do projeto. A aplicação do codificador de erro será em uma modulação QPSK, na qual será feita a inserção do bloco nas indicações das figuras:
+
+#### Para a modulação:
+<img src = 'images/Esboço%20da%20modulação.png'>
+
+#### Para a demodulação:
+<img src = 'images/Esboço%20da%20demodulação.png'>
+
+
+São esboços bem crus e provavelmente sofrerão alterações.
