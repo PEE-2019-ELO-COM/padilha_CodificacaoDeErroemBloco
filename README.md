@@ -53,13 +53,9 @@ O diagrama de classes do programa está representado na figura abaixo:
 
 ### Esboço do projeto
 
-As imagens a seguir são apenas esboços e estão sujeitas a alteração no desenvolvimento do projeto. A aplicação do codificador de erro será em uma modulação QPSK, na qual será feita a inserção do bloco nas indicações das figuras:
+A imagem a seguir é apenas um esboço e está sujeita a alteração no desenvolvimento do projeto. A aplicação do codificador de erro será em uma modulação que a princípio será em uma modulação QPSK. Uma imagem simplificada do projeto a seguir:
 
-#### Para a modulação:
-<img src = 'images/Esboço%20da%20modulação.png'>
-
-#### Para a demodulação:
-<img src = 'images/Esboço%20da%20demodulação.png'>
+<img src = "images/esboço.PNG"> 
 
 
-São esboços bem crus e provavelmente sofrerão alterações.
+
