@@ -57,5 +57,7 @@ A imagem a seguir é apenas um esboço e está sujeita a alteração no desenvol
 
 <img src = "images/esboço.PNG"> 
 
+## Instruções de compilação
 
+Para os códigos poderem ser acessados do próprio software, devem ser instalados na pasta 'bin', que contém todos os códigos dos blocos do GNURadio, e dessa maneira pode ser utilizado no momento que for necessário.
 
